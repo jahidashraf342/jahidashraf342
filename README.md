@@ -1,5 +1,5 @@
 <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="0">
-<h3 align="center">A Professional Web Designer, Developer and Wordpress Expert with over 1 year of experience in creating high-performance websites and WordPress solutions. I have completed more than 100+ projects in various industries.</h3>
+<h3 align="center">I build modern, responsive websites focused on quality, performance, and your business goals—delivering reliable solutions with attention to every detail.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20views&color=0e75b6&style=flat" alt="jahidashraf342" /> </p>
 
