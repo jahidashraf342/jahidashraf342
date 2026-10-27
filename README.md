@@ -157,9 +157,18 @@
 </p>
 
 <br /> <br /> <br /> 
+
 ---
 
-<div align="center">
-  <p><i>Quality in every detail. Satisfaction in every project.</i></p>
-  <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-</div>
+<p align="center">
+  <i>Quality in every detail. Satisfaction in every project.</i>
+</p>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=jahidashraf342&style=for-the-badge&color=0e75b6"
+    alt="Profile Views"
+    width="220"
+    height="45"
+  />
+</p>
