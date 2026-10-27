@@ -10,7 +10,7 @@
    <hr />
 
   <h3 align="center">
-    I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail—I will provide you with a reliable solution.
+    I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail, I will provide you with a reliable solution.
   </h3> <br />
 
 <p align="center">
@@ -38,11 +38,13 @@
 
 - 🔭 **Current Focus:** Building modern, responsive websites and WordPress solutions for business needs.
 
-- 🌱 **Learning Journey:** HTML, CSS, JavaScript, PHP, databases, and full-stack development.
+- 🌱 **Currently Learning:** Advance CSS, JavaScript, PHP, databases, and full-stack development.
   
-- 🎯 **My Goal:** Build useful digital experiences with quality, performance, and usability in mind.
+- 🎯 **My Goal:**  Client satisfaction through quality work and websites that deliver results.
   
-- 🤝 **Interested In:** Web projects, collaboration, and opportunities to learn and grow.
+- 🤝 **Interested In:** Full-Stack Development, Programming & Cybersecurity
+
+- 💬 Ask me about Web Design, WordPress, Elementor, and Responsive Websites.
   
 - 📂 **Explore My Work:** [GitHub Repositories](https://github.com/jahidashraf342?tab=repositories)
   
