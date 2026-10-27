@@ -127,17 +127,36 @@
 
 
 ---
+<!-- Final -->
 
-## 🚀 Featured Projects
+## 📊 GitHub Analytics
 
-I use practical projects to strengthen my skills, explore new technologies, and build a portfolio of my work.
+<div align="center">
 
-<!-- Add your best project repositories below. -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    alt="GitHub Statistics"
+    height="165"
+  />
 
-- **Website Projects:** [Explore My Repositories](https://github.com/jahidashraf342?tab=repositories)
-- **Live Demos:** Add deployment links as projects become available.
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidashraf342&layout=compact&theme=github_dark&hide_border=true"
+    alt="Most Used Languages"
+    height="165"
+  />
+
+  <br />
+
+  <img
+    src="https://streak-stats.demolab.com?user=jahidashraf342&theme=github-dark-blue&hide_border=true&timezone=Asia%2FDhaka"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
 
 ---
+
 
 ## 📊 GitHub Analytics
 
@@ -152,6 +171,18 @@ I use practical projects to strengthen my skills, explore new technologies, and 
   <img src="https://streak-stats.demolab.com?user=jahidashraf342&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
 
 </div>
+
+---
+
+
+## 🚀 Featured Projects
+
+I use practical projects to strengthen my skills, explore new technologies, and build a portfolio of my work.
+
+<!-- Add your best project repositories below. -->
+
+- **Website Projects:** [Explore My Repositories](https://github.com/jahidashraf342?tab=repositories)
+- **Live Demos:** Add deployment links as projects become available.
 
 ---
 
