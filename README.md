@@ -29,7 +29,7 @@
 
   <!-------------------- ABOUT SECTION -------------------->
 
- 👨‍💻 About Me
+ ## 👨‍💻 About Me
 
 <p>
   I am a web developer focused on building modern, responsive, and user-friendly websites that align with business goals. I believe in delivering quality work, paying attention to detail, and continuously improving my skills to create reliable digital experiences.
