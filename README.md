@@ -50,6 +50,7 @@
   
 - 📧 **Contact:** [hello.jahidashraf@gmail.com](mailto:hello.jahidashraf@gmail.com)
 
+<br /><br />
 
   <!-------------------- SKILL SECTION -------------------->
 
@@ -99,6 +100,7 @@
   </a>
 </p>
 
+<br /><br />
 
   <!-------------------- ANALYTICS SECTION -------------------->
 
