@@ -132,34 +132,29 @@
 
 <br />
 
-## 🚀 Featured Projects
-
-I use practical projects to strengthen my skills, explore new technologies, and build a portfolio of my work.
-
-<!-- Add your best project repositories below. -->
-
-- **Website Projects:** [Explore My Repositories](https://github.com/jahidashraf342?tab=repositories)
-- **Live Demos:** Add deployment links as projects become available.
-
----
-
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/jahidashraf342" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/jahidashraf342" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
-  </a>
-  <a href="https://fb.com/jahidashraf342" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
-  </a>
-  <a href="https://instagram.com/jahidashraf342" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+
+## 🤝 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/jahidashraf342" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:hello.jahidashraf@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://wa.me/8801601224060" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
+  </a>
+  <a href="https://twitter.com/jahidashraf342" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
+  </a>
+  <a href="https://facebook.com/jahidashraf342" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/jahidashraf342" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
