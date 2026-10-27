@@ -1,37 +1,136 @@
-<img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf hasan jahid web developer" border="0">
-<h3 align="center">I build modern, responsive websites focused on quality, performance, and your business goals—delivering reliable solutions with attention to every detail.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20views&color=0e75b6&style=flat" alt="jahidashraf342" /> </p>
+<div align="center">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidashraf342" alt="jahidashraf342" /></a> </p>
+  <img src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid — Web Developer" width="100%" />
 
-<p align="left"> <a href="https://twitter.com/jahidashraf342" target="blank"><img src="https://img.shields.io/twitter/follow/jahidashraf342?logo=twitter&style=for-the-badge" alt="jahidashraf342" /></a> </p>
+  <h1>Ashraf Hasan Jahid</h1>
 
-- 🔭 I’m currently working on **Building modern, responsive websites and WordPress solutions for business needs.**
+  <h3>Building Modern Websites. Growing Beyond the Code.</h3>
 
-- 🌱 I’m currently learning **Advanced CSS, JavaScript, PHP, and full-stack development.**
+  <p>
+    Web Development · WordPress · UI-Focused Websites · Future Full-Stack Development
+  </p>
 
-- 🤝 I’m looking for help with **Creating better user experiences, website performance, and modern web technologies.**
+  <p>
+    <a href="https://github.com/jahidashraf342">
+      <img src="https://img.shields.io/badge/GitHub-jahidashraf342-181717?style=for-the-badge&logo=github" alt="GitHub Profile" />
+    </a>
+    <a href="mailto:hello.jahidashraf@gmail.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-0A84FF?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    </a>
+  </p>
 
-- 👨‍💻 All of my projects are available at [https://github.com/jahidashraf342](https://github.com/jahidashraf342)
+</div>
 
-- 💬 Ask me about **Web Design, WordPress, Elementor, and Responsive Websites.**
+---
 
-- 📫 How to reach me **hello.jahidashraf@gmail.com**
+## 👨‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
+I'm Ashraf Hasan Jahid, a web development learner focused on creating modern, responsive, and user-friendly websites.
+
+I'm building my skills through hands-on practice, website projects, and continuous learning. My long-term goal is to become a professional full-stack developer and create reliable web solutions that support real business needs.
+
+- 🔭 **Current Focus:** Website development, WordPress customization, and practical projects.
+- 🌱 **Learning Journey:** HTML, CSS, JavaScript, PHP, databases, and full-stack development.
+- 🎯 **My Goal:** Build useful digital experiences with quality, performance, and usability in mind.
+- 🤝 **Interested In:** Web projects, collaboration, and opportunities to learn and grow.
+- 📂 **Explore My Work:** [GitHub Repositories](https://github.com/jahidashraf342?tab=repositories)
+- 📧 **Contact:** [hello.jahidashraf@gmail.com](mailto:hello.jahidashraf@gmail.com)
+
+---
+
+## 🛠️ Languages, Tools & Technology Roadmap
+
+Technologies I'm exploring, using, or planning to learn as I progress toward full-stack development.
+
 <p align="left">
-<a href="https://twitter.com/jahidashraf342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jahidashraf342" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/jahidashraf342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jahidashraf342" height="30" width="40" /></a>
-<a href="https://fb.com/jahidashraf342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jahidashraf342" height="30" width="40" /></a>
-<a href="https://instagram.com/jahidashraf342" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahidashraf342" height="30" width="40" /></a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
+  </a>
+  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="45" height="45" />
+  </a>
+  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+  </a>
+  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+  </a>
+  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
+  </a>
+  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="45" height="45" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
+  </a>
+  <a href="https://github.com/" target="_blank" rel="noreferrer">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidashraf342&show_icons=true&locale=en&layout=compact" alt="jahidashraf342" /></p>
+## 🚀 Featured Projects
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&locale=en" alt="jahidashraf342" /></p>
+I use practical projects to strengthen my skills, explore new technologies, and build a portfolio of my work.
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidashraf342&" alt="jahidashraf342" /></p>
+<!-- Add your best project repositories below. -->
+
+- **Website Projects:** [Explore My Repositories](https://github.com/jahidashraf342?tab=repositories)
+- **Live Demos:** Add deployment links as projects become available.
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+  <img src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub Statistics" height="165" />
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidashraf342&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" height="165" />
+
+  <br />
+
+  <img src="https://streak-stats.demolab.com?user=jahidashraf342&theme=github-dark-blue&hide_border=true" alt="GitHub Contribution Streak" />
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/jahidashraf342" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/jahidashraf342" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/X%20%2F%20Twitter-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X / Twitter" />
+  </a>
+  <a href="https://fb.com/jahidashraf342" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://instagram.com/jahidashraf342" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:hello.jahidashraf@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Say%20Hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+---
+
+<div align="center">
+  <p><i>Consistent learning. Practical building. Continuous improvement.</i></p>
+  <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+</div>
