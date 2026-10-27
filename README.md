@@ -57,6 +57,8 @@
 
 ## 🛠️ Languages, Tools & Technologies 
 
+<br />
+
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
