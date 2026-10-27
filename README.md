@@ -160,9 +160,9 @@
 
 ---
 
-<p align="center">
+<h4 align="center">
   <i>Quality in every detail. Satisfaction in every project.</i>
-</p>
+</h4>
 
 <p align="center">
   <img
