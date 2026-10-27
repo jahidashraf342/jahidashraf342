@@ -52,7 +52,7 @@
 
 ---
 
-<h3 align="left">🛠️ Languages, Tools & Technologies </h3>
+## <h3 align="left">🛠️ Languages, Tools & Technologies </h3>
 
 <p align="center">
   <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
