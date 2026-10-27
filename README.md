@@ -134,13 +134,13 @@
 <div align="center">
 
   <img
-    src="https://github-readme-stats.vercel.app/api?username=jahidashraf342&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    src="https://github-readme-stats.vercel.app/api?username=marketerjahid&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
     alt="GitHub Statistics"
     height="165"
   />
 
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidashraf342&layout=compact&theme=github_dark&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=marketerjahid&layout=compact&theme=github_dark&hide_border=true"
     alt="Most Used Languages"
     height="165"
   />
@@ -148,7 +148,7 @@
   <br />
 
   <img
-    src="https://streak-stats.demolab.com?user=jahidashraf342&theme=github-dark-blue&hide_border=true&timezone=Asia%2FDhaka"
+    src="https://streak-stats.demolab.com?user=marketerjahid&theme=github-dark-blue&hide_border=true&timezone=Asia%2FDhaka"
     alt="GitHub Contribution Streak"
   />
 
