@@ -130,7 +130,7 @@
   />
 </p>
 
----
+<br />
 
 ## 🚀 Featured Projects
 
