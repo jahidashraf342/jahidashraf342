@@ -51,8 +51,8 @@
 - 📧 **Contact:** [hello.jahidashraf@gmail.com](mailto:hello.jahidashraf@gmail.com)
 
 
+  <!-------------------- SKILL SECTION -------------------->
 
----
 
 ## 🛠️ Languages, Tools & Technologies 
 
@@ -100,8 +100,7 @@
 </p>
 
 
-
----
+  <!-------------------- ANALYTICS SECTION -------------------->
 
 
 ## 📊 GitHub Analytics
