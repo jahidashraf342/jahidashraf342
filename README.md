@@ -78,7 +78,7 @@
   &nbsp;
   <a href="https://www.w3schools.com/php/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
-  </a><br />
+  </a>
   &nbsp;
   <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
