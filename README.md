@@ -5,7 +5,7 @@
 
   <img margin-bottom="30" src="https://i.ibb.co.com/9mYpXXB9/Ashraf-hasan-jahid-web-developer.jpg" alt="Ashraf Hasan Jahid - Web Developer" width="100%" />   <br />
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Looking+for+an+expert+developer;you+are+on+the+right+place." alt="Looking for an expert developer | you are on the right place." />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Looking+for+an+Expert+Developer;You+are+on+the+Right+Place" alt="Looking for an expert developer | you are on the right place" />
 
    <hr />
 
@@ -31,9 +31,17 @@
 
 ## 👨‍💻 About Me
 
-I'm Ashraf Hasan Jahid, a web development learner focused on creating modern, responsive, and user-friendly websites.
+<p>
+  I am a web developer focused on building modern, responsive, and user-friendly websites that align with business goals.
+</p>
 
-I'm building my skills through hands-on practice, website projects, and continuous learning. My long-term goal is to become a professional full-stack developer and create reliable web solutions that support real business needs.
+<p>
+  I believe in delivering quality work, paying attention to detail, and continuously improving my skills to create reliable digital experiences.
+</p>
+
+<p>
+  My journey includes WordPress website customization and front-end development, with a long-term goal of becoming a professional full-stack developer.
+</p>
 
 - 🔭 **Current Focus:** Website development, WordPress customization, and practical projects.
 
