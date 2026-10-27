@@ -1,4 +1,4 @@
-<!-------------------- HEADER SECTION START -------------------->
+<!-------------------- HEADER SECTION -------------------->
 
 
 <div align="center">
@@ -7,7 +7,7 @@
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=87CEEB&center=true&vCenter=true&width=800&height=60&lines=Looking+for+an+Expert+Developer;You+are+on+the+Right+Place" alt="Looking for an expert developer | you are on the right place" />
 
-  ##
+##
 
   <h3 align="center">
     I am ready to assist you in creating a modern, responsive website tailored to your requirements. Focusing on quality, performance, and your business goals—while paying close attention to every detail, I will provide you with a reliable solution.
@@ -27,7 +27,7 @@
 
 </div>
 
-  <!-------------------- HEADER SECTION END -------------------->
+  <!-------------------- ABOUT SECTION -------------------->
 
 ## 👨‍💻 About Me
 
@@ -49,6 +49,8 @@
 - 📂 **Explore My Work:** [GitHub Repositories](https://github.com/jahidashraf342?tab=repositories)
   
 - 📧 **Contact:** [hello.jahidashraf@gmail.com](mailto:hello.jahidashraf@gmail.com)
+
+
 
 ---
 
