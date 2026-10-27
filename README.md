@@ -32,18 +32,11 @@
 ## 👨‍💻 About Me
 
 <p>
-  I am a web developer focused on building modern, responsive, and user-friendly websites that align with business goals.
+  I am a web developer focused on building modern, responsive, and user-friendly websites that align with business goals. I believe in delivering quality work, paying attention to detail, and continuously improving my skills to create reliable digital experiences.
 </p>
 
-<p>
-  I believe in delivering quality work, paying attention to detail, and continuously improving my skills to create reliable digital experiences.
-</p>
 
-<p>
-  My journey includes WordPress website customization and front-end development, with a long-term goal of becoming a professional full-stack developer.
-</p>
-
-- 🔭 **Current Focus:** Website development, WordPress customization, and practical projects.
+- 🔭 **Current Focus:** Building modern, responsive websites and WordPress solutions for business needs.
 
 - 🌱 **Learning Journey:** HTML, CSS, JavaScript, PHP, databases, and full-stack development.
   
