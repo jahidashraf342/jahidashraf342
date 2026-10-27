@@ -31,10 +31,15 @@ I'm Ashraf Hasan Jahid, a web development learner focused on creating modern, re
 I'm building my skills through hands-on practice, website projects, and continuous learning. My long-term goal is to become a professional full-stack developer and create reliable web solutions that support real business needs.
 
 - 🔭 **Current Focus:** Website development, WordPress customization, and practical projects.
+
 - 🌱 **Learning Journey:** HTML, CSS, JavaScript, PHP, databases, and full-stack development.
+  
 - 🎯 **My Goal:** Build useful digital experiences with quality, performance, and usability in mind.
+  
 - 🤝 **Interested In:** Web projects, collaboration, and opportunities to learn and grow.
+  
 - 📂 **Explore My Work:** [GitHub Repositories](https://github.com/jahidashraf342?tab=repositories)
+  
 - 📧 **Contact:** [hello.jahidashraf@gmail.com](mailto:hello.jahidashraf@gmail.com)
 
 ---
