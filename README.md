@@ -134,6 +134,7 @@
 
 ## 🌐 Connect With Me
 
+<br /> 
 <p align="center">
   <a href="https://linkedin.com/in/jahidashraf342" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -155,9 +156,10 @@
   </a>
 </p>
 
+<br /> <br /> <br /> 
 ---
 
 <div align="center">
-  <p><i>Consistent learning. Practical building. Continuous improvement.</i></p>
+  <p><i>Quality in every detail. Satisfaction in every project.</i></p>
   <img src="https://komarev.com/ghpvc/?username=jahidashraf342&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
 </div>
