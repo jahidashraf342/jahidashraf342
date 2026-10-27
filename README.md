@@ -52,45 +52,52 @@
 
 ---
 
-## 🛠️ Languages, Tools & Technology Roadmap
+<h3 align="left">🛠️ Languages, Tools & Technologies </h3>
 
-Technologies I'm exploring, using, or planning to learn as I progress toward full-stack development.
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=html" alt="HTML5" width="45" height="45" />
+<p align="center">
+  <a href="https://www.w3schools.com/html/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=html" alt="HTML" width="48" height="48" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=css" alt="CSS3" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.w3schools.com/css/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=css" alt="CSS" width="48" height="48" />
   </a>
-  <a href="https://wordpress.org/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.w3schools.com/js/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="48" height="48" />
   </a>
-  <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.w3schools.com/bootstrap5/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=bootstrap" alt="Bootstrap" width="48" height="48" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.w3schools.com/php/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="48" height="48" />
   </a>
-  <a href="https://www.php.net/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=php" alt="PHP" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.w3schools.com/mysql/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="48" height="48" />
   </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" width="45" height="45" />
+  &nbsp;
+ <a href="https://elementor.com/academy/" target="_blank" rel="noopener noreferrer">
+  <img src="https://cdn.simpleicons.org/elementor/92003B"
+       alt="Elementor" width="48" height="48" />
+ </a>
+  &nbsp;
+  <a href="https://learn.wordpress.org/" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=wordpress" alt="WordPress" width="48" height="48" />
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="45" height="45" />
+  &nbsp;
+  <a href="https://help.figma.com/hc/en-us/categories/360002051613-Learn-design" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=figma" alt="Figma" width="48" height="48" />
   </a>
-  <a href="https://www.adobe.com/products/photoshop.html" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=ps" alt="Adobe Photoshop" width="45" height="45" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=git" alt="Git" width="45" height="45" />
-  </a>
-  <a href="https://github.com/" target="_blank" rel="noreferrer">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="45" height="45" />
+  &nbsp;
+  <a href="https://www.adobe.com/learn/photoshop" target="_blank" rel="noopener noreferrer">
+    <img src="https://skillicons.dev/icons?i=photoshop" alt="Photoshop" width="48" height="48" />
   </a>
 </p>
+
+
 
 ---
 
