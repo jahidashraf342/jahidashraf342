@@ -29,8 +29,6 @@
 
   <!-------------------- HEADER SECTION END -------------------->
 
----
-
 ## 👨‍💻 About Me
 
 I'm Ashraf Hasan Jahid, a web development learner focused on creating modern, responsive, and user-friendly websites.
